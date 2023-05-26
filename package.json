@@ -8,8 +8,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "@radix-ui/react-select": "^1.2.2",
     "next": "13.4.4",
     "react": "18.2.0",
     "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^14.0.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "happy-dom": "^9.20.3",
+    "vitest": "^0.31.1"
   }
 }
